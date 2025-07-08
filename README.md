@@ -63,6 +63,7 @@ textparser.py   - Main script for text extraction
 - The script handles both text-based and image-based PDFs.
 - Tables in PDFs and DOCX files are extracted and formatted as readable text.
 - If a file fails to process, it's skipped and the error is logged without crashing the script.
+- Please fill out the API keys in .env folder 
 
 
 👤 Created by: B A Sharath Kandhan  
